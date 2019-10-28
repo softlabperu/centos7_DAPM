@@ -1,4 +1,4 @@
-OM centos:7
+FROM centos:7
 
 ENV container docker
 
